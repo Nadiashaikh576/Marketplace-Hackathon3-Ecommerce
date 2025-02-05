@@ -1,6 +1,5 @@
 # 🛒 Hekto Furniture E-commerce Website
-
-
+Website Link: https://github.com/Nadiashaikh576/figma_project.git
 
 Welcome to Hekto Furniture, your go-to destination for modern and elegant home furniture. This project is built using cutting-edge technologies to provide a seamless and enjoyable shopping experience.
 
